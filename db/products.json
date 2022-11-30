@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1832497,
+            "product": "HP Victus",
+            "cost": "780$",
+            "description": "Laptop gaming",
+            "in_stock": true
+        },
+        {
+            "id": 1562497,
+            "product": "Dell G15",
+            "cost": "985$",
+            "description": "Laptop gaming",
+            "in_stock": true
+        },
+        {
+            "id": 1233397,
+            "product": "ASUS TUF",
+            "cost": "1220$",
+            "description": "Laptop gaming",
+            "in_stock": true
+        }
+    ]
+}
